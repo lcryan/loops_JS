@@ -56,8 +56,11 @@
 
 const squares = [30, 2, 8, 24, 11];
 
-
-
+for (let i = 0; i < squares.length; i++) {
+    const answer = squares[i] **3
+    squares[i] = `Het volumen van ${squares[i]} is ${answer}`;
+}
+console.log(squares);
 // Verwachtte uitkomsten:
 // Vóór het script zie je de originele waardes:
 // console.log(squares) geeft: [30, 2, 8, 24, 11];
