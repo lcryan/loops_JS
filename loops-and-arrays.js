@@ -56,6 +56,8 @@
 
 const squares = [30, 2, 8, 24, 11];
 
+
+
 // Verwachtte uitkomsten:
 // Vóór het script zie je de originele waardes:
 // console.log(squares) geeft: [30, 2, 8, 24, 11];
