@@ -4,7 +4,9 @@
 // Zorg ervoor dat dit ook zou werken als de array wel 100 of 200 namen zou bevatten!
 // ==========================================
 
-const names = ["Henk", "Piet", "Fred", "Joop"];
+const names = ["Henk", "Piet", "Fred", "Joop"]
+
+
 
 // Verwachtte uitkomsten:
 // Vóór het script zie je de originele waardes:
