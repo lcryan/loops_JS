@@ -2,7 +2,7 @@
 // Opdracht 1
 // Schrijf een script dat iedere naam in onderstaande array vervangt door een koosnaampje, door er -"je" achter te plakken.
 // Zorg ervoor dat dit ook zou werken als de array wel 100 of 200 namen zou bevatten!
-// ==========================================
+
 
 let names = ["Henk", "Piet", "Fred", "Joop"]
 

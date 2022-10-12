@@ -40,7 +40,7 @@ for (let i=0; i<5; i++) {
 // 15 is oneven
 
 // Tip: een getal is oneven als je het door 2 deelt en er blijft nog iets over. Een getal is even als je het deelt door 2 en er blijft niets over. Google daarom eens naar 'mdn webdocs remainder operator'.
-// ==========================================
+
 
 for (let i = 0; i < 21; i++) {
     if(i % 2 === 0) {
